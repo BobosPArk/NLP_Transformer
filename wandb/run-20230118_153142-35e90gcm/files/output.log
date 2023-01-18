@@ -1,0 +1,13 @@
+
+{'loss': 0.8278, 'learning_rate': 1e-05, 'epoch': 1.0}
+{'eval_loss': 0.3216249346733093, 'eval_accuracy': 0.902, 'eval_f1': 0.8980626373817555, 'eval_runtime': 2.0313, 'eval_samples_per_second': 984.58, 'eval_steps_per_second': 15.753, 'epoch': 1.0}
+c:\Users\user\Desktop\NLP_using_Transformer\distilbert-base-uncased-finetuned-emotion is already a clone of https://huggingface.co/Bobospark/distilbert-base-uncased-finetuned-emotion. Make sure you pull the latest changes with `repo.git_pull()`.
+c:\Users\user\.conda\envs\saint_\lib\site-packages\transformers\optimization.py:306: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+{'loss': 0.2114, 'learning_rate': 1e-05, 'epoch': 1.0}
+{'eval_loss': 0.1789349913597107, 'eval_accuracy': 0.9315, 'eval_f1': 0.9311437066063193, 'eval_runtime': 2.0482, 'eval_samples_per_second': 976.447, 'eval_steps_per_second': 15.623, 'epoch': 1.0}
+{'loss': 0.1361, 'learning_rate': 0.0, 'epoch': 2.0}
+{'eval_loss': 0.15381455421447754, 'eval_accuracy': 0.934, 'eval_f1': 0.9344296599679173, 'eval_runtime': 2.0513, 'eval_samples_per_second': 974.99, 'eval_steps_per_second': 15.6, 'epoch': 2.0}
+To https://huggingface.co/Bobospark/distilbert-base-uncased-finetuned-emotion
+   4b4cbbd..d2e8319  main -> main
+c:\Users\user\.conda\envs\saint_\lib\site-packages\transformers\pipelines\text_classification.py:104: UserWarning: `return_all_scores` is now deprecated,  if want a similar funcionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.

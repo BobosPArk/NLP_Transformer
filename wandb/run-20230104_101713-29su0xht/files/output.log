@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 50%|█████     | 250/500 [00:54<01:02,  3.97it/s]
+  0%|          | 0/32 [00:00<?, ?it/s]
+
+ 94%|█████████▍| 30/32 [00:02<00:00, 14.33it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|█████████▉| 494/500 [01:56<00:01,  4.64it/s]
+100%|██████████| 500/500 [01:57<00:00,  3.96it/s]
+ 25%|██▌       | 8/32 [00:00<00:01, 15.45it/s]
+
+
+100%|██████████| 500/500 [02:16<00:00,  3.66it/s]
+{'train_runtime': 139.7661, 'train_samples_per_second': 228.954, 'train_steps_per_second': 3.577, 'train_loss': 0.5291619033813476, 'epoch': 2.0}
+
+100%|██████████| 32/32 [00:02<00:00, 15.17it/s]
+
+
+100%|██████████| 32/32 [00:02<00:00, 14.92it/s]
+
+
+100%|██████████| 125/125 [00:02<00:00, 53.61ba/s]
+Upload file runs/Jan04_10-13-08_DESKTOP-R2MLCA9/events.out.tfevents.1672795031.DESKTOP-R2MLCA9.21440.0: 100%|██████████| 5.24k/5.24k [00:00<?, ?B/s]remote: Scanning LFS files for validity, may be slow...
+remote: LFS file scan complete.
+To https://huggingface.co/Bobospark/distilbert-base-uncased-finetuned-emotion
+   4cd1234..89ae678  main -> main
+Upload file runs/Jan04_10-13-08_DESKTOP-R2MLCA9/events.out.tfevents.1672795031.DESKTOP-R2MLCA9.21440.0: 100%|██████████| 5.24k/5.24k [00:03<?, ?B/s]
+To https://huggingface.co/Bobospark/distilbert-base-uncased-finetuned-emotion
+   89ae678..bb2bab2  main -> main
+Downloading: 100%|██████████| 883/883 [00:00<00:00, 294kB/s]
+
+
+
+
+
+
+
+Downloading: 100%|██████████| 268M/268M [00:13<00:00, 20.5MB/s]
+Downloading: 100%|██████████| 360/360 [00:00<00:00, 360kB/s]
+Downloading: 100%|██████████| 232k/232k [00:00<00:00, 306kB/s]
+Downloading: 100%|██████████| 711k/711k [00:00<00:00, 730kB/s]
+Downloading: 100%|██████████| 125/125 [00:00<00:00, 62.5kB/s]
+c:\Users\user\.conda\envs\saint_\lib\site-packages\transformers\pipelines\text_classification.py:104: UserWarning: `return_all_scores` is now deprecated,  if want a similar funcionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
